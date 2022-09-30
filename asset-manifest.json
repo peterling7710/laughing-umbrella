@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/laughing-umbrella/static/css/main.073c9b0a.css",
+    "main.js": "/laughing-umbrella/static/js/main.ce1cc4b5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/laughing-umbrella/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/laughing-umbrella/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/laughing-umbrella/index.html",
+    "main.073c9b0a.css.map": "/laughing-umbrella/static/css/main.073c9b0a.css.map",
+    "main.ce1cc4b5.js.map": "/laughing-umbrella/static/js/main.ce1cc4b5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/laughing-umbrella/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ce1cc4b5.js"
+  ]
+}
